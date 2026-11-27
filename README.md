@@ -1,5 +1,2 @@
 # seduc_html
-
-# HTML5 e JavaScript
-
-# HTML e CSS
+# HTML5 e CSS
